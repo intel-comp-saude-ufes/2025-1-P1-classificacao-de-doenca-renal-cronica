@@ -5,7 +5,7 @@ Bem-vindo ao repositório do projeto que usa machine learning para prever compli
 ##  📌 Resumo do Projeto
 ✅ Objetivo: Desenvolver um modelo confiável para identificar pacientes com risco de complicações renais.
 
-✅ Dados: Características fisiológicas coletadas de um hospitala ao longo de 2 meses.
+✅ Dados: Características fisiológicas coletadas de um hospital ao longo de 2 meses.
 
 ✅ Resultados: Recall > 96% (quase nenhum caso positivo escapou!).
 
@@ -16,35 +16,30 @@ Práticas de machine learning foram utilizadas para preparar os dados e aplicar 
 
 ### 🛠️🔨Pré-processamento:
 
-- Encoding dos dados categóricos
+- _Encoding_ dos dados categóricos
 - Normalização dos dados
 - Imputação de valores faltantes
 - Separação em treino e teste
 
 ### 🤖 Algoritmos
 
-SVM: Baseado em distâncias
-Random Forest
+- _Support Vector Machine_
+- Random Forest
 
 ### Validação:
 
-- StratifiedKFold para métricas confiáveis.
+- _Stratified K-Fold_ para métricas confiáveis.
 - Grid Search para otimizar hiperparâmetros.
 - Matriz de confusão
-- Métricas: recall, f1-score, acurácia
-
-
-### 📈 Resultados e Discussão
-
-asas
+- Métricas: _recall_, _f1-score_, acurácia
 
 ### 🔻Limitações:
 
-O dataset poderia ser maior para melhor generalização.
+A base de dados poderia ser maior para melhor generalização.
 
 ## 🚀 Melhorias Futuras
 
-Aplicar mais técnicas de pré processamento como feature selection.
+Aplicar mais técnicas de pré processamento como _feature selection_.
 
 Conseguir mais dados para o algoritmo
 
@@ -53,7 +48,7 @@ Conseguir mais dados para o algoritmo
 Scikit-learn: [Documentação Oficial](scikit-learn.org/stable/modules/svm.html) 📄
 
 Artigo [_Classification of chronic kidney disease based on machine
-learning techniques_](https://www.academia.edu/download/107245053/32116_68219_1_PB.pdf)
+learning techniques_](https://d1wqtxts1xzle7.cloudfront.net/107245053/32116_68219_1_PB-libre.pdf?1699501554=&response-content-disposition=inline%3B+filename%3DClassification_of_chronic_kidney_disease.pdf&Expires=1753316238&Signature=DFwI0ns0OrHPAWZ5Fx-mVa2F0pqDZ5EmDlpakIQkUHDWeTqnMYCFLHmf7flBTcjJBwmkcYLsX2ZWLEPYlNuUN38kCZGXZ4Dd88Oq-PsmD5V0l0P1xWP~iOqsMzCdPoQ-r6h7D8iQXcOWZF01OV6wJg0mwbAksjFfZ7DN6UDSAFbBILSqMdParlz-bKhisopta1FyD9hg0sMx0KnrAOL4A42p40~1qB2yJMMdt76EQbsttfhBFXXHsVcOAo0jUaFYdT60dwHrvZilIyqudIxb7cF~8hijxGrZO04wbasfsjAK1vzba7oSWbMeT5PxN9UUltXkaNNJIHJL9JrPkDr~~g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 
 Dataset: [Chronic Kidney Disease dataset](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
 
@@ -66,6 +61,6 @@ Para mais detalhes veja o [_notebook_](https://github.com/intel-comp-saude-ufes/
 | Nome  	|  github 	|  email 	|  
 |---	|---	|---	|
 | Alex Oliveira  	|   🐙🐱 @alekswheeler	|   aleks.vix@outlook.com	|  
-| Icaro Madalena  	|   🐙🐱 @bvl0	|   	|   .com
+| Icaro Madalena  	|   🐙🐱 @bvl0			|   icaro.nascimento@edu.ufes.br |
 
 Feito com ❤️ e Python
