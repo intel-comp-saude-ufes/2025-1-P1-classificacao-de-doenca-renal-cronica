@@ -39,10 +39,11 @@ A base de dados poderia ser maior para melhor generalização.
 
 ## 🚀 Melhorias Futuras
 
-Aplicar mais técnicas de pré processamento como _feature selection_.
+- Aplicar mais técnicas de pré processamento como _feature selection_.
 
-Conseguir mais dados para o algoritmo
+- Conseguir mais dados para o algoritmo
 
+## 🔗 [Vídeo](https://youtu.be/QcmDgHRL9D0) explicativo do trabalho desenvolvido.
 
 ## 📚 Referências
 Scikit-learn: [Documentação Oficial](scikit-learn.org/stable/modules/svm.html) 📄
@@ -52,7 +53,7 @@ learning techniques_](https://d1wqtxts1xzle7.cloudfront.net/107245053/32116_6821
 
 Dataset: [Chronic Kidney Disease dataset](https://www.kaggle.com/datasets/mansoordaku/ckdisease)
 
-Para mais detalhes veja o [_notebook_](https://github.com/intel-comp-saude-ufes/2025-1-P1-classificacao-de-doenca-renal-cronica/blob/main/kidney_disease.ipynb) ou o [INSERIR LINK DO ARTIGO]
+Para mais detalhes veja o [_notebook_](https://github.com/intel-comp-saude-ufes/2025-1-P1-classificacao-de-doenca-renal-cronica/blob/main/kidney_disease.ipynb) ou o [artigo](https://github.com/intel-comp-saude-ufes/2025-1-P1-classificacao-de-doenca-renal-cronica/blob/main/predi%C3%A7%C3%A3o_de_doencas_cronicas_nos_rins.pdf)
 
 ---
 
